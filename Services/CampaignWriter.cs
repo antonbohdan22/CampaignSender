@@ -1,5 +1,4 @@
 ﻿using CampaignSender.Models;
-using System.Threading.Tasks;
 
 namespace CampaignSender.Services
 {
