@@ -1,0 +1,5 @@
+Campaign ID: 2, Template: D:\TestTask\Gem\CampaignSender\Resources\Templates\TemplateB.html, Sending Time: 10:19, Priority: 2, Date: 02.07.2024 07:19:04
+Campaign ID: 3, Template: D:\TestTask\Gem\CampaignSender\Resources\Templates\TemplateC.html, Sending Time: 10:30, Priority: 5, Date: 02.07.2024 07:30:01
+Campaign ID: 4, Template: D:\TestTask\Gem\CampaignSender\Resources\Templates\TemplateA.html, Sending Time: 10:31, Priority: 3, Date: 02.07.2024 07:31:03
+Campaign ID: 5, Template: D:\TestTask\Gem\CampaignSender\Resources\Templates\TemplateC.html, Sending Time: 10:32, Priority: 4, Date: 02.07.2024 07:32:04
+Campaign ID: 2, Template: D:\TestTask\Gem\CampaignSender\Resources\Templates\TemplateB.html, Sending Time: 10:33, Priority: 2, Date: 02.07.2024 07:33:04
